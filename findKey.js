@@ -12,7 +12,7 @@ const findKey = function(object, callback) {
       return key;
     }
   }
-};
+}; 
 
 // TEST CASES
 assertEqual(findKey({
